@@ -13,3 +13,10 @@ buildNumber.properties
 # IDEA
 .idea/
 *.iml
+
+# Test files
+*.mp4
+*.mkv
+*.cmp
+*.flac
+*.7z
